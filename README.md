@@ -1,7 +1,3 @@
-# junit5-jupiter-starter-gradle
+# junit5--gradle DEMO SODEXO
 
-The `junit5-jupiter-starter-gradle` project demonstrates how to run tests based on JUnit
-Jupiter using [Gradle's native JUnit Platform support], Gradle's Groovy DSL
-and code and tests written in Java.
-
-[Gradle's native JUnit Platform support]: https://docs.gradle.org/current/userguide/java_testing.html#using_junit5
+Este es un proyecto de demostración para administrar repositorios Git, en este caso con Junit 5 (Jupiter
